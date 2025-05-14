@@ -1,4 +1,4 @@
-# Quote Generator | ZTM Js Web Projects Course
+# Quote Generator | ZTM JS Web Projects Course
 
 **Project 1/20**
 
@@ -6,71 +6,73 @@ A simple and aesthetic random quote generator that fetches quotes from an extern
 
 ---
 
-## Table of contents
+## 📚 Table of Contents
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-  - [Features](#features)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Next Project](#next-project)
-- [Author](#author)
-  - [Connect with Me](#connect-with-me)
-  - [Coding Profiles](#coding-profiles)
+- [🔎 Overview](#-overview)
+  - [📸 Screenshot](#-screenshot)
+  - [🔗 Links](#-links)
+  - [📌 Features](#-features)
+- [🧠 My process](#-my-process)
+  - [🛠️ Built with](#️-built-with)
+  - [🎓 What I learned](#-what-i-learned)
+  - [🔜 Next Project](#-next-project)
+- [👤 Author](#-author)
+  - [🌐 Connect with Me](#-connect-with-me)
+  - [💻 Coding Profiles](#-coding-profiles)
 
 ---
 
-## Overview
+## 🔎 Overview
 
-### Screenshot
+### 📸 Screenshot
 
 ![](./assets/screenshot.jpg)
 
-### Links
+### 🔗 Links
 
- - [Live Demo](https://dalascript.github.io/quote-generator/)
- - [GitHub Repository](https://github.com/DalaScript/quote-generator)
+ - [🔴 Live Demo](https://dalascript.github.io/quote-generator/)
+ - [🗂️ GitHub Repository](https://github.com/DalaScript/quote-generator)
 
-### Features
+### 📌 Features
 
- - Random quote fetched from a public API
- - Author name display (or "Unknown" if missing)
- - Stylish design with responsive layout
- - Twitter share button
- - Loader animation for smooth UX
+ - ✅ Random quote fetched from a public API
+ - ✅ Author name display (or "Unknown" if missing)
+ - ✅ Stylish design with responsive layout
+ - ✅ Twitter share button
+ - ✅ Loader animation for smooth UX
 
-## My Process
+## 🧠 My Process
 
-### Built with
+### 🛠️ Built with
 
  - HTML5
  - CSS3
  - Vanilla JavaScript
  - Quote API
 
-### What I Learned
+### 🎓 What I Learned
 
  - Working with Fetch API and async/await
  - Handling conditional data (e.g., unknown authors)
  - UI/UX animation techniques
 
-### Next Project
+### 🔜 Next Project
 
  - Infinite Scroll → [View Repository](https://github.com/DalaScript/infinite-scroll)
 
 ---
 
-## Author
+## 👤 Author
 
-### Connect with Me
+### 🌐 Connect with Me
 
  - [Instagram](https://www.instagram.com/DalaScript)
  - [YouTube](https://www.youtube.com/@DalaScript)
 
-### Coding Profiles
+### 💻 Coding Profiles
 
  - [freeCodeCamp](https://www.freecodecamp.org/DalaScript)
  - [FrontendMentor](https://www.frontendmentor.io/profile/DalaScript)
  - [GitHub](https://github.com/DalaScript)
+
+*🙌 Thanks for checking out my project! More coming soon. Stay tuned 🚀*
