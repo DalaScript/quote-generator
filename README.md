@@ -35,30 +35,30 @@ A simple and aesthetic random quote generator that fetches quotes from an extern
 
 ### Features
 
-- Random quote fetched from a public API
-- Author name display (or "Unknown" if missing)
-- Stylish design with responsive layout
-- Twitter share button
-- Loader animation for smooth UX
+ - Random quote fetched from a public API
+ - Author name display (or "Unknown" if missing)
+ - Stylish design with responsive layout
+ - Twitter share button
+ - Loader animation for smooth UX
 
 ## My Process
 
 ### Built with
 
-- HTML5
-- CSS3
-- Vanilla JavaScript
-- Quote API
+ - HTML5
+ - CSS3
+ - Vanilla JavaScript
+ - Quote API
 
 ### What I Learned
 
-- Working with Fetch API and async/await
-- Handling conditional data (e.g., unknown authors)
-- UI/UX animation techniques
+ - Working with Fetch API and async/await
+ - Handling conditional data (e.g., unknown authors)
+ - UI/UX animation techniques
 
 ### Next Project
 
-Infinite Scroll → [View Repository](https://github.com/DalaScript/infinite-scroll)
+ - Infinite Scroll → [View Repository](https://github.com/DalaScript/infinite-scroll)
 
 ---
 
@@ -66,11 +66,11 @@ Infinite Scroll → [View Repository](https://github.com/DalaScript/infinite-scr
 
 ### Connect with Me
 
-- [Instagram](https://www.instagram.com/DalaScript)
-- [YouTube](https://www.youtube.com/@DalaScript)
+ - [Instagram](https://www.instagram.com/DalaScript)
+ - [YouTube](https://www.youtube.com/@DalaScript)
 
 ### Coding Profiles
 
-- [freeCodeCamp](https://www.freecodecamp.org/DalaScript)
-- [FrontendMentor](https://www.frontendmentor.io/profile/DalaScript)
-- [GitHub](https://github.com/DalaScript)
+ - [freeCodeCamp](https://www.freecodecamp.org/DalaScript)
+ - [FrontendMentor](https://www.frontendmentor.io/profile/DalaScript)
+ - [GitHub](https://github.com/DalaScript)
