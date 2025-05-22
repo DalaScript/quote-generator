@@ -26,7 +26,7 @@ A simple and aesthetic random quote generator that fetches quotes from an extern
 
 ### 📸 Screenshot
 
-![](./assets/screenshot.jpg)
+![screenshot of the project's webpage](./assets/screenshot.jpg)
 
 ### 🔗 Links
 
@@ -41,6 +41,8 @@ A simple and aesthetic random quote generator that fetches quotes from an extern
  - ✅ Twitter share button
  - ✅ Loader animation for smooth UX
 
+---
+
 ## 🧠 My Process
 
 ### 🛠️ Built with
@@ -51,6 +53,14 @@ A simple and aesthetic random quote generator that fetches quotes from an extern
  - Quote API
 
 ### 🎓 What I Learned
+
+  > 🚀 This project was more about **practice** and gaining additional **experience**,  
+  > rather than learning something entirely new.  
+  >  
+  > 👨‍💻 Since I’m not a beginner and already familiar with these technologies,  
+  > I approached it with confidence — and still, I truly **enjoyed working on it**.  
+  >  
+  > 🎯 Overall, I consider this a very **valuable and rewarding experience**.
 
  - Working with Fetch API and async/await
  - Handling conditional data (e.g., unknown authors)
