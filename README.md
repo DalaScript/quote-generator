@@ -67,7 +67,7 @@ A simple and aesthetic random quote generator that fetches quotes from an extern
 
 ### 🔜 Next Project
 
- - Infinite Scroll → [View Repository](https://github.com/DalaScript/infinite-scroll)
+ - Infinite Scroll | *[Project 2/20]* → [View Repository](https://github.com/DalaScript/infinite-scroll)
 
 ---
 
