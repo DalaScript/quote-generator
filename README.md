@@ -37,7 +37,6 @@ A simple and aesthetic random quote generator that fetches quotes from an extern
 
  - ✅ Random quote fetched from a public API
  - ✅ Author name display (or "Unknown" if missing)
- - ✅ Stylish design with responsive layout
  - ✅ Twitter share button
  - ✅ Loader animation for smooth UX
 
@@ -54,13 +53,13 @@ A simple and aesthetic random quote generator that fetches quotes from an extern
 
 ### 🎓 What I Learned
 
-  > 🚀 This project was more about **practice** and gaining additional **experience**,  
+  > 🚀 For me, this project was more about **practice** and gaining additional **experience**,  
   > rather than learning something entirely new.  
   >  
   > 👨‍💻 Since I’m not a beginner and already familiar with these technologies,  
   > I approached it with confidence — and still, I truly **enjoyed working on it**.  
   >  
-  > 🎯 Overall, I consider this a very **valuable and rewarding experience**.
+  > 🎯 Overall, I consider this a very **valuable and enjoyable experience**.
 
  - Working with Fetch API and async/await
  - Handling conditional data (e.g., unknown authors)
