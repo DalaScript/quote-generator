@@ -53,6 +53,10 @@ A simple and aesthetic random quote generator that fetches quotes from an extern
 
 ### 🎓 What I Learned
 
+ - Working with Fetch API and async/await
+ - Handling conditional data (e.g., unknown authors)
+ - UI/UX animation techniques
+
   > 🚀 For me, this project was more about **practice** and gaining additional **experience**,  
   > rather than learning something entirely new.  
   >  
@@ -60,10 +64,6 @@ A simple and aesthetic random quote generator that fetches quotes from an extern
   > I approached it with confidence — and still, I truly **enjoyed working on it**.  
   >  
   > 🎯 Overall, I consider this a very **valuable and enjoyable experience**.
-
- - Working with Fetch API and async/await
- - Handling conditional data (e.g., unknown authors)
- - UI/UX animation techniques
 
 ### 🔜 Next Project
 
