@@ -72,14 +72,13 @@ A simple and aesthetic random quote generator that fetches quotes from an extern
 
 ### 🗃️ Useful resources
 
- - [Hero Patterns](https://heropatterns.com/)
- - [Google Fonts](https://fonts.google.com/)
- - [FontAwesome Icons](https://fontawesome.com/icons?d=gallery&q=close&m=free)
- - [Twitter Integration Documentation](https://developer.x.com/en/docs/x-for-websites/tweet-button/guides/web-intent)
- - [W3Schools - Loader](https://www.w3schools.com/howto/howto_css_loader.asp)
- - [Random Quote API](https://forismatic.com/en/api/)
- - [Fix CORS Error Article](https://medium.com/@dtkatz/3-ways-to-fix-the-cors-error-and-how-access-control-allow-origin-works-d97d55946d9)
- - [Twitter Integration Documentation](https://developer.x.com/en/docs/x-for-websites/tweet-button/guides/web-intent)
+ - [Hero Patterns](https://heropatterns.com/) – Free, repeatable SVG background patterns for stylish UIs.
+ - [Google Fonts](https://fonts.google.com/) - Vast collection of free and customizable fonts.
+ - [FontAwesome Icons](https://fontawesome.com/icons?d=gallery&q=close&m=free) - Free icon set to enhance UI with icons.
+ - [Twitter Integration Documentation](https://developer.x.com/en/docs/x-for-websites/tweet-button/guides/web-intent) – How to create tweet share buttons for web pages.
+ - [W3Schools - Loader](https://www.w3schools.com/howto/howto_css_loader.asp) – How to make animated loaders with CSS.
+ - [Random Quote API](https://forismatic.com/en/api/) – Quote API used in this project (may require a proxy).
+ - [Fix CORS Error Article](https://medium.com/@dtkatz/3-ways-to-fix-the-cors-error-and-how-access-control-allow-origin-works-d97d55946d9) – Learn why CORS errors happen and how to fix them.
 
 ---
 
