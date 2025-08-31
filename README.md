@@ -14,8 +14,8 @@ A simple and aesthetic random quote generator that fetches quotes from an extern
   - [📌 Features](#-features)
   - [🛠️ Built with](#️-built-with)
 - [🧠 My process](#-my-process)
-  - [🔜 Next Project](#-next-project)
   - [🗃️ Useful resources](#️-useful-resources)
+  - [🔜 Next Project](#-next-project)
 - [👤 Author](#-author)
   - [🌐 Connect with Me](#-connect-with-me)
   - [💻 Coding Profiles](#-coding-profiles)
@@ -51,10 +51,6 @@ A simple and aesthetic random quote generator that fetches quotes from an extern
 
 ## 🧠 My Process
 
-### 🔜 Next Project
-
-- Infinite Scroll | *Project 2/20* → [View Repository](https://github.com/DalaScript/infinite-scroll)
-
 ### 🗃️ Useful resources
 
 - [Hero Patterns](https://heropatterns.com/) – Free, repeatable SVG background patterns for stylish UIs.
@@ -64,6 +60,10 @@ A simple and aesthetic random quote generator that fetches quotes from an extern
 - [W3Schools - Loader](https://www.w3schools.com/howto/howto_css_loader.asp) – How to make animated loaders with CSS.
 - [Random Quote API](https://forismatic.com/en/api/) – Quote API used in this project (may require a proxy).
 - [Fix CORS Error Article](https://medium.com/@dtkatz/3-ways-to-fix-the-cors-error-and-how-access-control-allow-origin-works-d97d55946d9) – Learn why CORS errors happen and how to fix them.
+
+### 🔜 Next Project
+
+- Infinite Scroll | *Project 2/20* → [View Repository](https://github.com/DalaScript/infinite-scroll)
 
 ---
 
