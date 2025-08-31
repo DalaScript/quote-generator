@@ -51,20 +51,6 @@ A simple and aesthetic random quote generator that fetches quotes from an extern
 
 ## 🧠 My Process
 
-### 🎓 What I Learned
-
-- Working with Fetch API and async/await
-- Handling conditional data (e.g., unknown authors)
-- UI/UX animation techniques
-
-  > 🚀 For me, this project was more about **practice** and gaining additional **experience**,  
-  > rather than learning something entirely new.  
-  >  
-  > 👨‍💻 Since I’m not a beginner and already familiar with these technologies,  
-  > I approached it with confidence — and still, I truly **enjoyed working on it**.  
-  >  
-  > 🎯 Overall, I consider this a very **valuable and enjoyable experience**.
-
 ### 🔜 Next Project
 
 - Infinite Scroll | *Project 2/20* → [View Repository](https://github.com/DalaScript/infinite-scroll)
