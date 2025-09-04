@@ -15,6 +15,7 @@ A simple and aesthetic random quote generator that fetches quotes from an extern
   - [🛠️ Built with](#️-built-with)
 - [🧠 My process](#-my-process)
   - [🗃️ Useful resources](#️-useful-resources)
+  - [🧪 Another Versions](#-another-versions)
   - [🔜 Next Project](#-next-project)
 - [👤 Author](#-author)
   - [🌐 Connect with Me](#-connect-with-me)
@@ -60,6 +61,14 @@ A simple and aesthetic random quote generator that fetches quotes from an extern
 - [W3Schools - Loader](https://www.w3schools.com/howto/howto_css_loader.asp)
 - [Random Quote API](https://forismatic.com/en/api/)
 - [Fix CORS Error Article](https://medium.com/@dtkatz/3-ways-to-fix-the-cors-error-and-how-access-control-allow-origin-works-d97d55946d9)
+
+### 🧪 Another Versions
+
+- Quote Generator Local → [View Repository](https://github.com/DalaScript/quote-generator-local)
+
+- Quote Generator Optional → [View Repository](https://github.com/DalaScript/quote-generator-optional)
+
+### 🏷️ Quote Generator Optional
 
 ### 🔜 Next Project
 
